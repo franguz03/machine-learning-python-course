@@ -1,0 +1,2 @@
+They are inversely proportional, more complex models like k-neighbors have less bias but more variance when the objective function changes a lot depending on the training data.
+On the contrary, with simpler models like linear regression, they are more rigid so they do not easily find underlying patterns, therefore they have more bias, but their function does not change much if we change the training data.
